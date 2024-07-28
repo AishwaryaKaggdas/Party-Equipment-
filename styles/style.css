@@ -1,0 +1,782 @@
+
+/*
+           filename: style.css
+           author: Aishwarya Kaggdas
+           created: 20 th March
+           last modified: 28th March
+           Purpose: To design my website "Aishwarya's party equipments"
+*/
+
+a:hover {
+  color: midnightblue;
+}
+a:active {
+  color: blue;
+}
+
+.footer1 a:hover  { color: midnightblue; }
+
+
+
+  h1         {   text-align:center; 
+                 color:white;
+                 font-size:2.4em;
+                 font-weight:bold;
+            
+            }
+
+#FI1       {     float:left; 
+                 height:74px;
+                 border-style: solid; color:black;
+                 margin-top:-60px;
+                 margin-left: -7px;
+
+            }
+
+ #FI2        {    
+                 border-style: solid; color:black;
+              }          
+
+.H1         {    background-color:#64485C;
+                 color:white;
+                 border-width: 2px;
+                 margin-top: -49px;
+                 margin-left: -12px;
+                 margin-right: -20px;
+                 margin-bottom: -19px;
+                 padding-top: 30px;
+            
+             }
+
+#SEARCH    {    float:right; 
+                height:43px; width:62px;
+                margin-right:10px;
+                margin-top: -1px; 
+              }     
+
+  
+nav  a      {   color:white;
+                font-size:15px;
+                padding: 3px 30px;
+                color: white;
+            }
+
+.topnav     {  background-color:#83677B;
+               margin-left: -12px;
+               margin-right: -20px;
+               padding-bottom: 25px;
+           }
+
+#SBUTTON
+             {  line-height: 1.6em;
+                width: 12%;
+                padding-bottom: 17px;
+                margin: 2px ;
+                border: 5px solid grey;
+                border-radius: 5px;
+                float:right;
+                padding-right:25px;
+                padding-top: 2px;
+                margin-top: -5px;
+              }
+        
+::placeholder {  color: blue;
+                 font-weight: bold;
+                 font-size:22px;
+
+               }  
+
+
+               
+#balloonimage   { height:300px; width:400px ;
+                 padding-top: 50px;
+                 padding-left: 60px;
+               }
+
+#fairy         { height:300px;width:400px;
+                 padding-top: 50px;
+                 padding-left: 60px;
+               }
+
+#candle        { height:300px;width:400px;
+                 padding-top: 50px;
+                 padding-left: 60px;
+               }
+            
+#speaker        { height:300px;width:400px; 
+                 padding-top: 50px;
+                 padding-left: 60px;
+               }
+            
+
+#confetti       { height:300px; width:400px;
+                  padding-top: 50px;
+                  padding-left: 60px;
+                }
+        
+#heading       
+                { color:black;
+                  padding-top: 25px;
+                  text-decoration: underline;
+                
+                 }
+
+
+.container
+              {    float:left;
+                   text-align: center;
+               }
+  
+ h2           {    color:white; 
+                   text-align:center;
+              } 
+    
+
+body           {    font-family: arial,sans-serif;
+                    color:black;
+              }
+
+
+#b1          { 
+                     padding-top:150px; 
+                     font-size:22px;
+                     text-align:center;
+                     border:3px;
+                     border-style:solid;
+                     padding:160px;
+                     margin-left: 15px;
+                     margin-right: 15px;
+                     margin-top: 15px;
+              }   
+
+     
+ #b2          {
+                     padding-top: 170px;
+                     text-align:center; 
+                     font-size:22px;
+                     border:3px;
+                     border-style:solid;
+                     padding:155px;
+                     margin-top: 30px;
+                     margin-left: 15px;
+                     margin-right: 15px;
+
+             }
+      
+
+#b3         {  
+                    padding-top: 180px;
+                    text-align:center; 
+                    font-size:22px;
+                    border:3px;
+                    border-style:solid;
+                    padding:155px;
+                    margin-top: 30px;
+                    margin-left: 15px;
+                    margin-right: 15px;
+             }
+
+
+
+#b4       {        
+                   padding-top: 300px;
+                   text-align:center; 
+                   font-size:22px;
+                   border:3px;
+                   border-style:solid;
+                   padding:155px;
+                   margin-top: 10px;
+                   margin-left: 15px;
+                   margin-right: 15px;
+              
+             }
+
+
+
+#b5          {    
+                 padding-top: 300px;
+                 text-align:center; 
+                 font-size:22px;
+                 border:3px;
+                 border-style:solid;
+                 padding:155px;
+                 margin-top: 30px;
+                 margin-left: 15px;
+                 margin-right: 15px;
+               }
+
+                
+.firstfooter{
+                 background-color:#83677B;
+                 margin-top:100px ;
+                 color:white;
+                 padding:50px; 
+                 height:300px;
+                 margin-left: -10px;
+                 margin-right: -20px;
+                 position: relative;
+              }
+
+.footer1   {    float: left;
+                width:33%;
+            }
+
+
+.footer1 a {    padding-top: 25px;
+                color: white;
+                font-size: 1.0em;
+                background-color: #83677B; 
+                display:block;
+                text-align: center;
+           }
+
+ 
+
+.companyname
+            {   width:33%; 
+                float:right;
+                padding:25px 0;
+                text-align:center;
+                
+            }
+
+
+
+.heading2 {       padding:15px 5px 0px 5px;
+                  color:white;
+                  font-size:16px;
+                  
+           }
+
+
+
+p.copy    {        text-align: center;
+                   
+             }
+
+
+.snetwork  { 
+                  width:33%;
+                  float:left;
+                  text-align:center;
+               }
+
+.snetwork a  {     padding:20px 0;
+                   background-color: #83677B; 
+                   width:25%;
+                   float:left; 
+               }
+
+
+#fb         {      height:50px; width:50px; }
+#twitter    {      height:50px; width:50px; }
+#instagram  {      height:50px; width:50px; }
+#linkedin   {      height:50px; width:50px; }
+     
+
+
+.copyright,.legal,.privacy
+
+            {       color: white;
+                    width:33%;
+                    float:left;
+                    text-align: center;
+                    font-size: small;
+              }
+
+.lastfooter         
+                {
+                    background-color: #64485C;
+                    height: 80px;
+                    padding: 0 50px;
+                    margin-left: -10px;
+                    margin-right: -20px;
+                    margin-bottom: -50px;
+                       
+                 }
+
+.background    {   background-image: url('../stylesimages/pink2.jpg'); 
+                   background-size: cover;
+                   margin-top: -25.6px;
+                   margin-bottom: -100px;
+                   margin-right: -20px;
+                   margin-left: -10px;
+                 }
+
+
+                                                               /*       STYLING FOR THE PRODUCT PAGE    */
+
+
+
+
+
+#party       {   text-align:center;
+                 color:black;
+                 padding-top: 25px;
+                 font-family: arial,sans-serif;
+                 color:black;
+                 font-variant: normal;
+                 font-size: 43px;
+                 text-decoration: underline;
+
+           }
+
+ 
+
+body        {   font-family: arial,sans-serif; }  
+         
+
+#pic1      {
+                 height:250px;
+                 width:350px;
+                 margin-left:70px;
+                 margin-top:30px; 
+            }
+
+#pic2      {
+                 height:250px;
+                 width:350px;
+                 margin-left:70px;   
+                 
+             }
+
+
+#pic3       {    height:250px;
+                 width:350px;
+                 margin-left:70px;   
+                 
+             }  
+
+#pic4      {     height:250px;
+                 width:350px;
+                 margin-left:70px;
+                
+             }
+
+
+#pic5     {      height:250px;
+                 width:350px;
+                 margin-left:70px;   
+              
+            }
+
+
+#pic0     {      height:250px;
+                 width:350px; 
+                 float:left;
+                 margin-left: 70px; 
+                      
+
+          }
+
+aside      {
+                 width: 25%;
+                 padding:40px;
+                 margin-top: -400px;
+                 margin-right: 35px;
+                 float: right;
+                 font-style: italic;
+                 background-color: lavenderblush;
+                 border-color: salmon;
+                 border-style: solid;
+                 border-width: thick;
+          }
+
+
+.table th, td {
+                 border: 3px solid black;
+                 border-collapse: collapse;
+                 padding: 25px;
+              }
+
+
+
+   
+ .table     {  
+                margin-top: 180px; 
+                margin-left: 150px;
+                border: 3px solid black;
+                border-collapse: collapse;
+                padding: 25px;
+            } 
+
+
+.table th          {   background-color:#ADD8E6; }
+.table td          {   background-color:#ffe4e1 ;} 
+
+
+ 
+
+.background2  {   font-family: arial,sans-serif;
+                  font-size:18px;
+                  background-image: url('../stylesimages/pink2.jpg'); 
+                  background-size: cover;
+                  margin-top: -28.7px;
+                  margin-left: -8px;
+                  margin-right: -20px;
+                  margin-bottom: -100px;
+              }
+
+
+                  
+.equipments   {   padding: 25px;}
+
+.candlet      {   padding: 20px;}
+.balloont     {   padding: 20px;}
+.speakerst    {   padding: 20px;}
+.lightst      {   padding: 20px;}
+.confettit    {   padding: 20px;}
+
+#submit        {  height:24px;
+                  width:150px;
+                  margin-right: 20px;
+                  font-size:17px;
+                  color: blue;
+                  font-weight: bold;
+
+              }
+
+#reset         {  height:24px;
+                  width:150px;
+                  font-size:17px;
+                  color: blue;
+                  font-weight: bold;
+              }
+
+
+
+
+#reset2         {
+
+                  height:24px;
+                  width:150px;
+                  font-size:17px;
+                  color: blue;
+                  font-weight: bold;
+
+
+}
+
+h3               {text-align:center;}
+
+
+
+.font            { margin-left:450px;
+                   margin-right:100px;
+                   margin-top: 90px;}
+
+.font1           { margin-left: 70px; }
+
+.font2           { margin-right:600px;}
+
+#h13            {  padding-top: 180px;
+                   margin-left: -76px; }
+
+#TE1            { margin-top: -1673px;
+                  margin-left: 450px; 
+                  padding-right: 150px;
+               }
+
+
+#TE2         {     margin-top: 230px;
+                  margin-left: 450px; 
+                  padding-right: 150px;
+              }
+
+ 
+#TE3         {   margin-top: 200px;
+                 margin-left: 450px; 
+                 padding-right: 150px;
+             }
+  
+
+#TE4       {    margin-top: 180px; 
+                margin-left: 450px; 
+                padding-right: 150px;
+            }
+          
+
+#TE5      {     margin-top: 150px;
+                margin-left: 450px; 
+                padding-right: 150px;
+            }
+
+      
+
+#AK1  {     margin-left: 180px; }
+#AK2  {     margin-left: 180px; }
+#AK3  {     margin-left: 180px; }
+#AK4  {     margin-left: 180px; }
+#AK5  {     margin-left: 180px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  /*       STYLING FOR THE ENQUIRY PAGE    */
+
+
+
+
+
+
+#feedback     {   text-align: center;
+                   color:black;
+                   text-decoration: underline; }
+
+
+.formfieldset{    margin-top: 40px; }
+
+.fieldbox    {    margin-left: 60px;
+                  height:25px;
+              }
+
+
+#state      {         margin-left: 50px;
+                      height:30px;
+                      width:150px; }
+
+#emailid    {         margin-left: 77px;}
+
+#streetaddress{       margin-left: 30px;}
+
+#suburb    {          margin-left: 42px; }
+
+#postcode  {          margin-left: 65px; }
+
+#complaints {         height:30px;
+                      width:150px;         }
+
+ #partye    {         height:30px;
+                      width:150px;        }            
+
+ legend {             font-weight:bold;
+                      font-size: 20px;
+           }
+
+.background3    {   background-image: url('../stylesimages/pink2.jpg');
+                    background-size: cover; 
+                    padding-top: 8px;
+                    margin-left: -7.5px;
+                    margin-right: -20px; 
+                    margin-bottom: -137px;
+                }
+
+              
+#CAN      {
+                  margin-left: 42px;
+                  height:30px;
+                   width:150px;  }
+
+
+#SPE       {
+                margin-left: 113px;
+                height:30px;
+                width:150px;  
+}
+
+
+
+#CON      {
+                margin-left: 51px;
+                height:30px;
+                width:150px;  
+}
+
+#LIG       {
+
+                  margin-left: 75px;
+                  height:30px;
+                  width:150px;  
+}
+
+#BAL      {
+                 margin-left: 22px;
+                 height:30px;
+                 width:150px;  
+
+}
+
+                   /*                         STYLING FOR  THE ABOUT PAGE              */
+
+
+#photoofme{         
+
+                          margin-top: -150px;
+                          height: 200px;
+                          width: 150px;
+                          
+                          border-style: double;
+                          padding: 20px;}   
+                     
+figure             {     float:right; }
+
+dl .abtname    {         display:inline-block; 
+                         margin-left: 25px; 
+                         margin-top: 40px;        }
+
+
+
+.studentdetails {       text-align: center;
+                        text-decoration: underline;
+                        font-size: 255%;
+                        color:#000000;  
+                        padding-top: 40px;}
+
+dl .studentno      {        position: relative;
+                            font-family: arial,sans-serif;
+                            display:inline-block;
+                            margin-left: 25px;}
+
+                                                                              
+
+    
+dl .course1  {           display: inline-block;
+                         color: rgb(210,16,16);
+                         font-family: arial,sans-serif;
+                         margin-left: 25px;
+                            }                 
+ dl .email1  {           display: inline-block;
+                         color: rgb(210,16,16);
+                         font-family: arial,sans-serif;  
+                         margin-left: 25px;}
+
+
+.programming      {       background-color:#9370db;  }       
+.web              {       background-color: #ff69b4; }  
+.networking       {       background-color:#90ee90;   }  
+.logistics        {       background-color:#00ced1;   }
+ #idtable th      {       background-color:  #87cefa; }
+
+.tableh  {                background-color:  #87cefa  ; }
+
+#idtable    {             margin-top:500px;
+                          margin-left: auto; 
+                          margin-right: auto;
+                          border: 3px solid black;
+                          border-collapse: collapse;
+                          padding: 25px;
+                          background-color: #ffe4e1;
+            
+
+            }
+
+
+ .background4    {       background-image: url('../stylesimages/pink2.jpg'); 
+                         background-size: cover;
+                         margin-left: -10px;
+                         margin-right:-20px;
+                         margin-top: -33.7px;  
+                         margin-bottom: -100px;                  
+                 }
+
+
+
+ #STT     {              margin-top:100px;
+                         margin-bottom: -420px;
+                         color:#000000;
+                 }    
+.personalinfo2{         margin-left:60px;
+                        margin-right: 70px;
+                        font-family:arial,sans-serif;
+                   }
+
+#personalinfo {          color:#000000; }
+
+
+
+
+
+
+
+
+
+                                                            /*       Styling for enhancement page         */
+
+.background5   {     background-image: url('../stylesimages/pink2.jpg'); 
+                     background-size: cover;
+                     margin-top: -25.7px;
+                     margin-left: -8px;
+                     margin-right: -20px;
+                     margin-bottom: -99.7px;
+                     }
+
+#enhancement   {     color:black;
+                     padding-top: 10PX; }
+
+
+.Eheading    {      padding:  30px; }
+                                                  /*   Styling for payment page   */
+
+
+
+
+
+.background6    {   background-image: url('../stylesimages/pink2.jpg');
+                    background-size: cover; 
+                    padding-top: 8px;
+                    margin-left: -7.5px;
+                    margin-right: -20px; 
+                    margin-bottom: -100px;
+                }
+
+#Cname         {
+
+                     margin-left:32px;
+                     height:25px;
+               }
+
+ #CREDIT       {
+                    
+                     margin-left:60px;
+                     height:25px;
+                }
+
+
+ #Cnumber     {      margin-left:39px;
+                     height:25px;
+              }
+                     
+
+
+#Cexpiry       {      margin-left:15px;
+                      height:25px;
+                     
+                      
+
+
+                 }
+                   
+                    
+
+  #CVV           { margin-left:83px; 
+                   height:25px;
+
+                  }
+
+
+.formfieldset23  {
+                     margin-top:75px;
+                   
+
+
+                 }
+
+                  
+#customer
+
+             {
+
+                     color:black;
+
+
+
+             }
